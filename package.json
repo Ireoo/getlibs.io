@@ -1,20 +1,20 @@
 {
-  "name": "getlibs.io",
-  "version": "1.0.0",
-  "description": "索引根目录下的libs文件夹，将所有函数索引，方便调用，不用考虑位置问题",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Ireoo/getlibs.io.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Ireoo/getlibs.io/issues"
-  },
-  "homepage": "https://github.com/Ireoo/getlibs.io#readme"
+    "name": "getlibs.io",
+    "version": "1.0.1",
+    "description": "索引根目录下的libs文件夹，将所有函数索引，方便调用，不用考虑位置问题",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Ireoo/getlibs.io.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Ireoo/getlibs.io/issues"
+    },
+    "homepage": "https://github.com/Ireoo/getlibs.io#readme"
 }
